@@ -12,15 +12,12 @@
   <body  id="ndndndonaona">
     <div  id="container">
       <header>
-        <h1><a  href="">JNC Productions <br>
-          </a></h1>
+        <h1><a  href="">JNC Productions&nbsp;</a></h1>
+        <img  alt="lalala"  src="images/WP_20150309_19_24_20_Pro.jpg"  height="100"
+           width="100">
       </header>
       <section  class="g8 gfirst"  id="home">
-        <p><a  href="images/WP_20150309_19_24_20_Pro.jpg"><img  style="width: 382px; height: 348px;"
-               longdesc="../../Downloads/WP_20150309_19_24_20_Pro.jpg"
-               src="images/WP_20150309_19_24_20_Pro.jpg"
-               alt="standout and shed some light"></a>
-        </p>
+        <p> </p>
         <section  class="g4 gfirst">
           <h3>Biography</h3>
           <p>I speak Spanish. Experienced in live sound, mixing, mastering and
